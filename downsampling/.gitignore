@@ -1,0 +1,12 @@
+node_modules/
+bower_components/
+npm-debug.log
+.sass-cache/
+.stats/
+.tmp/
+.dist/
+.idea/
+.DS_Store
+.sonar/
+.vscode/
+.history/
